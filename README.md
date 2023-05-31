@@ -2,9 +2,11 @@
 
 # Coastal Coders
 
-This is a public facing repository for us to host misc. content and mainly provide a way to receive feedback via a public issue board associated with our project.
+Coastal Coders is a simulation-based learning platform to assist exploration of K-12 Virginia computer science strands and standards via engaging and thematic challenges.
 
-Please use our Issue Templates to put in for internal/external bug reporting and user feedback. Thank you!!
+Users are tasked to navigate computational thinking skills such as decomposition, pattern recognition, algorithmic design, and abstraction as computer science content is expanded upon in each activity or mini-game. Each activity ties computer science connections to uses of innovative, digital technologies.
+
+During gameplay, users navigate real-world activities and challenges while collecting digital tools to assist with in-game problem-solving. Users additionally learn about corresponding STEM careers in computer science with diverse career pathways. 
 
 ## Coastal Coders Team Leads
 
@@ -24,6 +26,11 @@ Please use our Issue Templates to put in for internal/external bug reporting and
 
 * Ryan Kearney
 * Caleb Ralph
+
+## Report a Bug and/or Feedback?
+
+* For [a 'bug'](https://github.com/Virginia-Digital-Shipbuilding-Program/CoCo/issues/new?assignees=JShull&labels=bug&projects=&template=coastal-coders-bug-report.md&title=%5BCoastal+Coders+Bug+Report%5D) 🐛 
+* For [general feedback](https://github.com/Virginia-Digital-Shipbuilding-Program/CoCo/issues/new?assignees=JShull&labels=general+feedback%2C+question&projects=&template=coastal-coders-general-feedback.md&title=%5BCoastal+Coders+General+Feedback%5D) 📓
 
 ## Unity Information
 
