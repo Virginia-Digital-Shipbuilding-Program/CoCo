@@ -24,7 +24,7 @@ Steps to reproduce the behavior:
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
-
+![coco Logo](https://github.com/Virginia-Digital-Shipbuilding-Program/CoCo/blob/main/media/ccLogo.png?raw=true)
 
 **Chromebook Hardware (please complete the following information):**
 
