@@ -20,7 +20,7 @@ During gameplay, users navigate real-world activities and challenges while colle
 * [Devon Walker](https://dwalk024.wixsite.com/devon-walker)
 * [Julius Austin](https://www.artstation.com/jujua)
 * [Devon Nelson](https://devongod123.wixsite.com/devonnelsonportfolio/portfolio)
-* [Christian Lamm]()
+* [Christian Lamm](https://www.artstation.com/christianlamm)
 
 ### Coastal Coder Contributors
 
@@ -32,11 +32,14 @@ During gameplay, users navigate real-world activities and challenges while colle
 * For [a 'bug'](https://github.com/Virginia-Digital-Shipbuilding-Program/CoCo/issues/new?assignees=JShull&labels=bug&projects=&template=coastal-coders-bug-report.md&title=%5BCoastal+Coders+Bug+Report%5D) 🐛 
 * For [general feedback](https://github.com/Virginia-Digital-Shipbuilding-Program/CoCo/issues/new?assignees=JShull&labels=general+feedback%2C+question&projects=&template=coastal-coders-general-feedback.md&title=%5BCoastal+Coders+General+Feedback%5D) 📓
 
-## Unity Information
+## Development Timeline
 
-* Unity 2022.2.20F1
-* Unity URP
+We are working on internal play testing with the Newport News Public School System and are working to establish a more public timeline on application deployment. We are currently targeting ChromeBook devices and will be releasing the application under the Google Play Store. Currently we are running internal testing and not seeking external testers but will be looking for external testers starting  Q4 2023.
 
-## Android Play Information
+## Current Software Information
 
-* [Privacy Statement](https://fuzzphyte.com/coastal-coders-privacy-policy-page/)
+This project is utilizing the [Unity 2022 Tech Release version 2.21F1](https://unity.com/releases/editor/whats-new/2022.2.21#release-notes) and we are deploying through the Google Play store to support a wide range of Google Chromebook devices. We are currently targetting Android 10 and will be providing a changelog for our bi-weekly software updates.
+
+[Privacy Statement](https://fuzzphyte.com/coastal-coders-privacy-policy-page/)
+
+[![E for everybody](./media/ESRB_EVERYONE.png)](https://www.esrb.org/ratings-guide/)
