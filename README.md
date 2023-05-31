@@ -32,4 +32,4 @@ Please use our Issue Templates to put in for internal/external bug reporting and
 
 ## Android Play Information
 
-* Privacy Statement
+* [Privacy Statement](https://fuzzphyte.com/coastal-coders-privacy-policy-page/)
