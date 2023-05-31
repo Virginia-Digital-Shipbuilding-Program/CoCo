@@ -10,13 +10,13 @@ Please use our Issue Templates to put in for internal/external bug reporting and
 
 * [Jessica Johnson](mailto:j17johnso@odu.edu)
 * [Bratislav Cvijetic](mailto:bcvijeti@odu.ed)
-* [John Shull](mailto:jshull@odu.edu)
+* [John Shull](github.com/jshull)
 * [Katie Smith](mailto:k3smith@odu.edu)
 
 ### Coastal Coders Lead Student Team Fall 2022 - Spring 2023
 
 * [Devon Walker](https://dwalk024.wixsite.com/devon-walker)
-* [Julius Austin]()
+* [Julius Austin](https://www.artstation.com/jujua)
 * [Devon Nelson](https://devongod123.wixsite.com/devonnelsonportfolio/portfolio)
 * [Christian Lamm]()
 
