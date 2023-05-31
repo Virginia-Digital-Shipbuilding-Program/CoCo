@@ -2,7 +2,7 @@
 name: Coastal Coders General Feedback
 about: Suggest content related feedback
 title: "[Coastal Coders General Feedback]"
-labels: ''
+labels: general feedback, question
 assignees: JShull
 
 ---
