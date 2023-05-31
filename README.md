@@ -1,3 +1,5 @@
+![Coastal Coders Banner Image](./media/CoCo_GitHubSM.png)
+
 # Coastal Coders
 
 This is a public facing repository for us to host misc. content and mainly provide a way to receive feedback via a public issue board associated with our project.
