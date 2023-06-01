@@ -12,7 +12,7 @@ assignees: JShull
 -[e.g. v.000.105.010]
 
 **Describe the bug**
-A clear and concise description of what the bug is and exactly where/what you were doing in the experiendce.
+A clear and concise description of what the bug is and exactly where/what you were doing in the experience.
 
 E.g. "I was in the classroom, at the school, and when I walked up to the teacher to ask about my computer science test the game closed out as I hit the mouse button to interact."
 
@@ -24,7 +24,6 @@ Steps to reproduce the behavior:
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
-![coco Logo](https://github.com/Virginia-Digital-Shipbuilding-Program/CoCo/blob/main/media/ccLogo.png?raw=true)
 
 **Chromebook Hardware (please complete the following information):**
 
@@ -38,3 +37,5 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here and/or notes that can help us recreate it - thank you!
+
+![coco Logo](https://github.com/Virginia-Digital-Shipbuilding-Program/CoCo/blob/main/media/ccLogo.png?raw=true)
