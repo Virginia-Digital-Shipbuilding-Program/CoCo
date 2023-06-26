@@ -47,7 +47,7 @@ We are working on internal play testing with the Newport News Public School Syst
 |0.105.0.1|CoCo Deployment P1|Overview of Map, Google Play Setup, & Internal Testing System|6/01/2023|
 |0.105.0.2|CoCo Deployment P2|Immediate hot fixes for known issues|06/03/2023|
 |0.105.0.3|CoCo Deployment P3|Secondary fixes for known issues|06/05/2023|
-|0.106.0.1|Audio Revamp|System wide Interface Audio Updates|06/28/2023|
+|0.106.0.1|Audio Revamp|System wide Map-Interface & Audio Updates|06/28/2023|
 |0.107.0.1|CoCo Content|Town: Classroom & Makerspace Module Sequence V1|07/03/2023|
 |0.108.0.1|CoCo Content|Town: Museum SOL Module Sequence V1|07/10/2023
 |0.110.0.1|CoCo Content|City: Warehouse SOL Module Sequence V1|07/17/2023|
