@@ -48,20 +48,21 @@ We are working on internal play testing with the Newport News Public School Syst
 |0.105.0.2|CoCo Deployment P2|Immediate hot fixes for known issues|06/03/2023|
 |0.105.0.3|CoCo Deployment P3|Secondary fixes for known issues|06/05/2023|
 |0.106.0.1|Map Interface|System wide Map-Interface Updates|06/28/2023|
-|0.107.0.1|CoCo Content|Town: Museum Module Sequence V1|06/30/2023|
-|0.108.0.1|CoCo Content|Town: Makerspace Module Sequence V1|07/01/2023|
-|0.109.0.1|CoCo Content|City: Warehouse Module Sequence V1|07/03/2023|
-|0.110.0.1|CoCo Windows Build|Windows Build for NN V1|07/05/2023|
+
 
 ### Backlog 2023 Development Milestones
 
 |Version Number|Internal Names|Details|Estimated Dates|
 |---|---|---|---|
-|0.xxx.0.1|Interaction Revamp|System wide 'FEEL' updates and TTS tweaks|xx/xx/2023|
-|0.xxx.0.2|CoCo Content|City: Air Craft Carrier SOL Module Sequence V1|xx/xx/2023|
-|0.xxx.0.3|CoCo Content|City: Submarine SOL Module Sequence V1|xx/xx/2023|
-|0.xxx.0.4|CoCo Quality of Life|Instructions, Online Documentation, & External Testing|xx/xx/2023|
-|0.xxx.0.5|Accessibility Revamp|System wide interface font updates and Google TTS tests|xx/xx/2023|
+|0.xxx.0.1|CoCo Content|Town: Museum Module Sequence V1|xx/xx/2023|
+|0.xxx.0.2|CoCo Content|Town: Makerspace Module Sequence V1|xx/xx/2023|
+|0.xxx.0.3|CoCo Content|City: Warehouse Module Sequence V1|xx/xx/2023|
+|0.xxx.0.4|CoCo Windows Build|Windows Build for NN V1|xx/xx/2023|
+|0.xxx.0.5|Interaction Revamp|System wide 'FEEL' updates and TTS tweaks|xx/xx/2023|
+|0.xxx.0.6|CoCo Content|City: Air Craft Carrier SOL Module Sequence V1|xx/xx/2023|
+|0.xxx.0.7|CoCo Content|City: Submarine SOL Module Sequence V1|xx/xx/2023|
+|0.xxx.0.8|CoCo Quality of Life|Instructions, Online Documentation, & External Testing|xx/xx/2023|
+|0.xxx.0.9|Accessibility Revamp|System wide interface font updates and Google TTS tests|xx/xx/2023|
 
 
 ## Current Software Information
