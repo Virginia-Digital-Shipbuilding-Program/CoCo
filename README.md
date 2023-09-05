@@ -8,14 +8,33 @@ Users are tasked to navigate computational thinking skills such as decomposition
 
 During gameplay, users navigate real-world activities and challenges while collecting digital tools to assist with in-game problem-solving. Users additionally learn about corresponding STEM careers in computer science with diverse career pathways. 
 
-## Coastal Coders Team Leads
+## Coastal Coders VMASC Team Leads
 
 * [Jessica Johnson](mailto:j17johnso@odu.edu)
 * [Bratislav Cvijetic](mailto:bcvijeti@odu.ed)
 * [John Shull](github.com/jshull)
 * [Katie Smith](mailto:k3smith@odu.edu)
 
-### Coastal Coders Lead Student Team Fall 2022 - Spring 2023
+### Coastal Coders Student Team - Leads - Summer 2023
+
+* [Devon Walker](https://dwalk024.wixsite.com/devon-walker)
+* [Julius Austin](https://www.artstation.com/jujua)
+* [Devon Nelson](https://devongod123.wixsite.com/devonnelsonportfolio/portfolio)
+
+### Coastal Coders Student Team  - Asset Creation - Summer 2023
+
+* [Jackson Walsh](https://www.coroflot.com/JacksonWalsh)
+* [Trent Farlin]()
+* [Julius Austin](https://www.artstation.com/jujua)
+
+### Coastal Coders Student Team - Leads - Spring 2023
+
+* [Devon Walker](https://dwalk024.wixsite.com/devon-walker)
+* [Julius Austin](https://www.artstation.com/jujua)
+* [Devon Nelson](https://devongod123.wixsite.com/devonnelsonportfolio/portfolio)
+* [Christian Lamm](https://www.artstation.com/christianlamm)
+
+### Coastal Coders Student Team - Leads - Fall 2022
 
 * [Devon Walker](https://dwalk024.wixsite.com/devon-walker)
 * [Julius Austin](https://www.artstation.com/jujua)
@@ -24,8 +43,11 @@ During gameplay, users navigate real-world activities and challenges while colle
 
 ### Coastal Coder Contributors
 
-* Ryan Kearney
 * Caleb Ralph
+* Ryan Kearney
+* Cole Reese
+* [Isaiah Fitch](https://github.com/FitchIsaiah)
+* [Adam Langlois](https://github.com/AdamLanglois)
 
 ## Report a Bug and/or Feedback?
 
@@ -35,6 +57,11 @@ During gameplay, users navigate real-world activities and challenges while colle
 ## Development Timeline
 
 We are working on internal play testing with the Newport News Public School System and are working to establish a more public timeline on application deployment. We are currently targeting ChromeBook devices and will be releasing the application under the Google Play Store. Currently we are running internal testing and not seeking external testers but will be looking for external testers starting  Q4 2023.
+
+### Fall 2023 Development Milestones
+
+|---|---|---|---|
+|0.107.0.1|Coastal Coders 2023|Initial WebGL Tests|09/08/2023|
 
 ### Summer 2023 Development Milestones
 
@@ -67,7 +94,7 @@ We are working on internal play testing with the Newport News Public School Syst
 
 ## Current Software Information
 
-This project is utilizing the [Unity 2022 Tech Release version 3.3F1](https://unity.com/releases/editor/whats-new/2022.3.1). Internal testing will done on Windows Deployments with targetted production deployment through the Google Player Store in 2024 to support a wide range of Google Chromebook devices- [due to new requirements from Google we will be focusing in on API level 33](https://support.google.com/googleplay/android-developer/answer/11926878?hl=en). 
+This project is utilizing the [Unity 2022 Tech Release version 3.8F1](https://unity.com/releases/editor/whats-new/2022.8.1). Internal testing will done on Windows Deployments with targetted production deployment through the Google Player Store in 2024 to support a wide range of Google Chromebook devices- [due to new requirements from Google we will be focusing in on API level 33](https://support.google.com/googleplay/android-developer/answer/11926878?hl=en). 
 
 [Privacy Statement](https://fuzzphyte.com/coastal-coders-privacy-policy-page/)
 
