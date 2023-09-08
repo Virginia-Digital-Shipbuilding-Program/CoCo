@@ -17,6 +17,7 @@ During gameplay, users navigate real-world activities and challenges while colle
 
 ### Coastal Coders Student Team - Leads - Summer 2023
 
+* [Christian Lamm](https://www.artstation.com/christianlamm) 😸
 * [Devon Walker](https://dwalk024.wixsite.com/devon-walker)
 * [Julius Austin](https://www.artstation.com/jujua)
 * [Devon Nelson](https://devongod123.wixsite.com/devonnelsonportfolio/portfolio)
