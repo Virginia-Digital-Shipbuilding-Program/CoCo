@@ -61,8 +61,15 @@ We are working on internal play testing with the Newport News Public School Syst
 
 ### Fall 2023 Development Milestones
 
+|Version Number|Internal Names|Details|Estimated Dates|
 |---|---|---|---|
-|0.107.0.1|Coastal Coders 2023|Initial WebGL Tests|09/08/2023|
+|0.107.0.1|Coastal Coders 2023|Classroom WebGL Tests|09/08/2023|
+|0.107.0.2|Coastal Coders 2023|Makerspace WebGL Tests|09/12/2023|
+|0.107.0.3|Coastal Coders 2023|Library WebGL Tests|09/20/2023|
+|0.107.0.4|Coastal Coders 2023|Warehouse WebGL Tests|10/06/2023|
+|0.107.0.5|Coastal Coders 2023|Website Partial Internal Launch|10/16/2023|
+|0.108.0.1|Coastal Coders 2023|Website Full Internal Launch|10/23/2023|
+|0.200.0.1|Coastcal Coders Soft Launch|Full Launch|10/31/2023|
 
 ### Summer 2023 Development Milestones
 
