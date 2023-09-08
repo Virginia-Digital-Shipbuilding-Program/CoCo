@@ -19,7 +19,6 @@ During gameplay, users navigate real-world activities and challenges while colle
 
 * [Christian Lamm](https://www.artstation.com/christianlamm) 😸
 * [Devon Walker](https://dwalk024.wixsite.com/devon-walker)
-* [Julius Austin](https://www.artstation.com/jujua)
 * [Devon Nelson](https://devongod123.wixsite.com/devonnelsonportfolio/portfolio)
 
 ### Coastal Coders Student Team  - Asset Creation - Summer 2023
