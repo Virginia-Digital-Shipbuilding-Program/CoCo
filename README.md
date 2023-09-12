@@ -17,7 +17,7 @@ During gameplay, users navigate real-world activities and challenges while colle
 
 ### Coastal Coders Student Team - Leads - Summer 2023
 
-* [Christian Lamm](https://www.artstation.com/christianlamm) 😸
+* [Christian Lamm](https://www.christianlamm.com/) 😸
 * [Devon Walker](https://dwalk024.wixsite.com/devon-walker) ⚱️
 * [Devon Nelson](https://devongod123.wixsite.com/devonnelsonportfolio/portfolio) 🤖
 
@@ -32,14 +32,14 @@ During gameplay, users navigate real-world activities and challenges while colle
 * [Devon Walker](https://dwalk024.wixsite.com/devon-walker)
 * [Julius Austin](https://www.artstation.com/jujua)
 * [Devon Nelson](https://devongod123.wixsite.com/devonnelsonportfolio/portfolio)
-* [Christian Lamm](https://www.artstation.com/christianlamm)
+* [Christian Lamm](https://www.christianlamm.com/) 😸
 
 ### Coastal Coders Student Team - Leads - Fall 2022
 
 * [Devon Walker](https://dwalk024.wixsite.com/devon-walker)
 * [Julius Austin](https://www.artstation.com/jujua)
 * [Devon Nelson](https://devongod123.wixsite.com/devonnelsonportfolio/portfolio)
-* [Christian Lamm](https://www.artstation.com/christianlamm)
+* [Christian Lamm](https://www.christianlamm.com/) 😸
 
 ### Coastal Coder Contributors
 
